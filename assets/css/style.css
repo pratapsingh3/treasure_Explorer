@@ -1,0 +1,263 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../font/Yatra\ One.ttf );
+}
+
+@font-face {
+    font-family: mySecondFont;
+    src: url(../font/Blippo\ Regular.ttf );
+}
+
+@font-face {
+    font-family: myThirdFont;
+    src: url(../font/BRADHITC.TTF );
+}
+
+.header{
+    font-size: 50px;
+}
+
+.header img{
+    width: 16%;
+}
+
+.main-bg{
+    background-color: #f5f5f5;
+}
+
+.text-color1{
+    color: #5c1b17;
+}
+
+.bg-brown{
+    background-color: #5c1b17;
+}
+
+.head-btn{
+    margin-left: 200px;
+    font-size: 20px;
+    border: none;
+}
+
+.banner {
+	background-image: url('../img/banner1.png');
+	background-size: cover;
+	height: 600px;  
+}
+
+.bg-blur1 {
+    background: rgba(0,0,0,0.6);
+    height: 600px;
+}
+
+.bg-blur {
+    background: rgba(0,0,0,0.6);
+    height: 700px;
+    width: 100%;
+}
+
+.head-anchor li a{
+    font-size: 25px;
+}
+
+.ban-text {
+    padding-top: 180px;
+}
+
+.name{
+    font-size: 30px;
+    text-decoration: none;
+    color: #000;
+   margin: 120px;
+
+}
+.name1{
+    font-size: 30px;
+    text-decoration: none;
+    color: #000;
+   margin: 80px;
+
+}
+
+.jodhpur {
+    background-image: url('../img/jodhpur.jpg');
+	background-size: cover;
+    height: 400px;
+    background-position: center;
+    border: solid 5px #fff;
+}
+
+.bikaner {
+    background-image: url('../img/bikaner.png');
+	background-size: cover;
+    height: 400px;
+    background-position: center;
+    border: solid 5px #fff;
+}
+
+.pushkar {
+    background-image: url('../img/pushkar.png');
+	background-size: cover;
+    height: 400px;
+    background-position: center;
+    border: solid 5px #fff;
+}
+
+.mountabu {
+    background-image: url('../img/mountabu.png');
+	background-size: cover;
+    height: 400px;
+    background-position: center;
+    border: solid 5px #fff;
+}
+
+.jaisalmer {
+    background-image: url('../img/jaisalmer.png');
+	background-size: cover;
+    height: 400px;
+    background-position: center;
+    border: solid 5px #fff;
+}
+
+.jaipur {
+    background-image: url('../img/jaipur.png');
+	background-size: cover;
+    height: 400px;
+    background-position: center;
+    border: solid 5px #fff;
+}
+
+.banner2 {
+    background-image: url('../img/banner2.png');
+	background-size: cover;
+	height: 900px;  
+}
+
+.box1 {
+    margin-top: 60px;
+    margin-right: 20px;
+    height: 450px;
+}
+
+.box2 {
+    margin-top: 60px;
+    margin-right: 20px;
+    height: 550px;
+}
+
+.box3 {
+    margin-top: 60px;
+    margin-right: 20px;
+}
+
+.about-icon{
+    font-size: 45px;
+}
+
+.banner3 {
+    background-image: url('../img/contact.jpg');
+	background-size: cover;
+	height: 700px; 
+}
+
+.form-box {
+    border: dotted 1px #000;
+    width: 80%;
+    margin-left: 50px;
+}
+
+.cont-margin {
+    margin-left: 50px;
+}
+
+.foot1 {
+    background-color: #495052;
+}
+.foot2 {
+    background-color: #404548;
+}
+
+.foot-col {
+    color: #a3a3a4;
+}
+
+.letter1 {
+    font-family: 'montserratlight';
+    font-size: 17px;
+    letter-spacing: 3px;
+}
+
+.letter2 {
+    font-family: 'ralewaylight';
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.letter3 {
+    font-family: 'ralewaylight';
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+
+
+.font1 {
+    font-family: myFirstFont;
+}
+
+.font2 {
+    font-family: mySecondFont;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.font3 {
+    font-family: myThirdFont;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.login-bg{
+    background-image: url('../img/loginBan.jpg');
+	background-size: cover;
+	height: 710px;  
+}
+
+.login-box{
+    padding-top: 100px;
+}
+
+.register-box{
+    padding-top: 60px;
+}
+
+.w-40 {
+    width: 47%;
+}
+
+.ht1{
+    height: 500px;
+}
+
+.mehrangarh{
+    padding-top: 50px;
+}
+
+.mehrangarh img {
+    border: solid 3px #000;
+    padding: 5px;
+    box-shadow: 12px 12px 14px 1px #888888;
+}
+
+#more {
+    display: none;
+}
+
+.mx-center{
+    text-align: center;
+}
+
+.let1{
+    letter-spacing: 2px;
+    font-weight: 500;
+}
