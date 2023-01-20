@@ -64,66 +64,8 @@
     padding-top: 180px;
 }
 
-.name{
-    font-size: 30px;
-    text-decoration: none;
-    color: #000;
-   margin: 120px;
-
-}
-.name1{
-    font-size: 30px;
-    text-decoration: none;
-    color: #000;
-   margin: 80px;
-
-}
-
-.jodhpur {
-    background-image: url('../img/jodhpur.jpg');
-	background-size: cover;
+.dist {
     height: 400px;
-    background-position: center;
-    border: solid 5px #fff;
-}
-
-.bikaner {
-    background-image: url('../img/bikaner.png');
-	background-size: cover;
-    height: 400px;
-    background-position: center;
-    border: solid 5px #fff;
-}
-
-.pushkar {
-    background-image: url('../img/pushkar.png');
-	background-size: cover;
-    height: 400px;
-    background-position: center;
-    border: solid 5px #fff;
-}
-
-.mountabu {
-    background-image: url('../img/mountabu.png');
-	background-size: cover;
-    height: 400px;
-    background-position: center;
-    border: solid 5px #fff;
-}
-
-.jaisalmer {
-    background-image: url('../img/jaisalmer.png');
-	background-size: cover;
-    height: 400px;
-    background-position: center;
-    border: solid 5px #fff;
-}
-
-.jaipur {
-    background-image: url('../img/jaipur.png');
-	background-size: cover;
-    height: 400px;
-    background-position: center;
     border: solid 5px #fff;
 }
 
